@@ -221,7 +221,7 @@ This project is created for educational purposes as part of university coursewor
 
 ## 👨‍💻 About
 
-Developed by [Your Name] as part of the Database Management Systems course at Dayananda Sagar University. The project demonstrates practical application of database design, backend development, and user interface design principles.
+Developed by Mohammed Faizan Khan as part of the Database Management Systems course at Dayananda Sagar University. The project demonstrates practical application of database design, backend development, and user interface design principles.
 
 ---
 

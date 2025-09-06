@@ -1,7 +1,7 @@
 
 A comprehensive event management system built for Dayananda Sagar University to streamline event creation, student registration, attendance tracking, and analytics.
 
-![Reports Dashboard](https://github.com/FAIZAVENGER/Campus-Event-Management/blob/main/reports-dashboard.png)
+![Reports Dashboard](https://github.com/FAIZAVENGER/Campus-Event-Management/main/reports-dashboard.png)
 
 ## 🎯 Overview
 
